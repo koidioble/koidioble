@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Koidioble - Full Stack & Mobile Engineer  
+# 👋 Hello, I'm Koidio Ble - Full Stack & Mobile Engineer  
 
-💻 **Passionate about building scalable web & mobile apps**  
+💻 **Passionate about building scalable web, desktop & mobile apps**  
 🚀 **JavaScript | React | Flutter | Firebase**  
 🌱 **Always learning, always shipping code**  
 
