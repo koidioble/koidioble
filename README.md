@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Koidio Ble - Full Stack & Mobile Engineer  
+# 👋 Hello, I'm Koidio Blé - Full Stack & Mobile Engineer  
 
 💻 **Passionate about building scalable web, desktop & mobile apps**  
 🚀 **JavaScript | React | Flutter | Firebase**  
