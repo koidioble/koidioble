@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Koidio Blé - Computer Engineer | Electrical Engineer  
+# 👋 Hello, I'm Koidio Blé - Computer Engineer  
 
 💻 **Passionate about building scalable web, desktop & mobile apps**  
-🚀 **JavaScript | React | Flutter | Firebase**  
+🚀 **JavaScript | React | Flutter | Firebase | Supabase |**
 🌱 **Always learning, always shipping code**  
 
 ## 🔧 **Tech Stack & Tools**  
