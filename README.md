@@ -49,8 +49,8 @@ Currently open to **senior remote engineering roles**.
 
 | Role | Where | When |
 |------|--------|------|
-| Freelance Full-Stack Developer | Remote (Independent) | 2013 – Present |
-| Software Engineer — Embedded Systems | Master Computer System, Côte d'Ivoire | 2013 – 2020 |
+| Freelance Full-Stack Developer | Remote (Independent) | 2015 – Present |
+| Software Engineer — Embedded Systems | Master Computer System, Côte d'Ivoire | 2010 – 2013 |
 | IT Intern — Mobile App Developer | NOV'ACT, Côte d'Ivoire | 2024 |
 
 ---
