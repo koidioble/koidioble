@@ -1,7 +1,8 @@
 # Hi, I'm Koidio Y. Blé 👋
-### Full-Stack & Cross-Platform Engineer · Remote-First
+### Computer & Software Engineer · 
+### Full-Stack & Cross-Platform Engineer · 
 
-B.S. Computer Engineering Technology · Indiana State University, 2025  
+B.S. Computer Engineering Technology · Indiana State University,  
 10+ years building production web, mobile, and embedded systems.  
 Currently open to **senior remote engineering roles**.
 
@@ -10,7 +11,7 @@ Currently open to **senior remote engineering roles**.
 ## 🚀 What I Build
 
 - **Full-stack web apps** — React, Node.js, REST APIs, PWAs
-- **Cross-platform mobile** — Flutter/Dart (iOS & Android)
+- **Cross-platform mobile** — Flutter/Dart (iOS, Android, Desktop & Web)
 - **Embedded & low-level systems** — custom hardware, firmware integration
 - **Cloud-connected products** — Firebase, Supabase, GCP, Azure
 
