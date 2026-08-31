@@ -1,76 +1,107 @@
 # Hi, I'm Koidio Y. Blé 👋
-### Computer & Software Engineer · 
-### Full-Stack & Cross-Platform Engineer · 
 
-B.S. Computer Engineering Technology · Indiana State University,  
-10+ years building production web, mobile, and embedded systems.  
-Currently open to **senior remote engineering roles**.
+### Software Engineer | Flutter, Firebase, Mobile, Web & Cloud Applications
 
----
+I design, build, test, and deploy cross-platform applications that solve practical user problems. My current work focuses on **Flutter**, **Firebase**, REST API integration, responsive web development, and reliable cloud-connected product experiences.
 
-## 🚀 What I Build
+I bring a systems-oriented engineering background spanning application development, technical support, and embedded technology. I am focused on writing maintainable software, improving product quality through testing and debugging, and shipping user-centered applications from idea to deployment.
 
-- **Full-stack web apps** — React, Node.js, REST APIs, PWAs
-- **Cross-platform mobile** — Flutter/Dart (iOS, Android, Desktop & Web)
-- **Embedded & low-level systems** — custom hardware, firmware integration
-- **Cloud-connected products** — Firebase, Supabase, GCP, Azure
-
-🔗 **Live project:** [sii-kaa.com](https://www.sii-kaa.com) — full-stack web app in production
+[![Portfolio](https://img.shields.io/badge/Portfolio-koidioble.com-111827?style=flat&logo=google-chrome&logoColor=white)](https://www.koidioble.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Koidio%20Y.%20Bl%C3%A9-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koidioyble/)
+[![Email](https://img.shields.io/badge/Email-koidioble%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:koidioble@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
+## What I Build
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**  
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- **Cross-platform mobile applications** with Flutter and Dart for Android, iOS, web, and desktop
+- **Full-stack web applications** with responsive interfaces, authentication, APIs, and data-driven workflows
+- **Cloud-connected products** using Firebase Authentication, Cloud Firestore, Storage, Hosting, and deployment workflows
+- **Community-oriented platforms** with user content, reporting, blocking, moderation, localization, and subscription-ready features
+- **Maintainable software solutions** built with clean UI, practical data models, debugging, testing, and iterative delivery in mind
 
 ---
 
-## 💼 Experience Highlights
+## Featured Work
 
-| Role | Where | When |
-|------|--------|------|
-| Freelance Full-Stack Developer | Remote (Independent) | 2015 – Present |
-| Software Engineer — Embedded Systems | Master Computer System, Côte d'Ivoire | 2010 – 2013 |
-| IT Intern — Mobile App Developer | NOV'ACT, Côte d'Ivoire | 2024 |
+### [Sii-Kaa](https://www.sii-kaa.com)
+
+A live community-oriented web platform built around useful information, user participation, and accessible product experiences.
+
+**Engineering focus:** responsive UI, user-generated content, authentication, cloud data, content moderation workflows, reporting and blocking, localization, and web deployment.
+
+[Visit sii-kaa.com →](https://www.sii-kaa.com)
+
+### [Harmattan](https://github.com/koidioble/harmattan)
+
+A multilingual educational micro-site explaining the Harmattan—a dry, dust-carrying seasonal wind that affects West Africa. Built with **semantic HTML5 and modern CSS only**, with no JavaScript, dependencies, frameworks, or build step.
+
+The project demonstrates how much can be accomplished through deliberate structure, responsive CSS, and browser-native features while clearly documenting the limitations of a JavaScript-free approach.
+
+**Highlights:**
+- Five linked pages covering formation, regional reach, real-world impacts, and a CSS-only UI patterns playground
+- Semantic HTML with meaningful headings, navigation, figures, captions, native tables, ordered lists, and accessible page structure
+- Responsive layouts using CSS Grid, Flexbox, custom properties, media queries, and mobile-first adaptation
+- Site-wide English, French, and Spanish content switching using CSS radio inputs, `:has()`, and language-tagged content—without JavaScript
+- CSS-only theme switching, modal interaction, UI toggles, animations, hover states, and transitions
+- Inline SVG pressure-system diagram and a synthesized ambient audio file using the native HTML `<audio>` element
+- Motion preferences supported through `prefers-reduced-motion`
+- Transparent documentation of JavaScript-free limitations, including non-persistent settings and static document metadata
+
+**Tech:** HTML5 · CSS3 · CSS Grid · Flexbox · CSS Custom Properties · Responsive Design · Accessibility-minded Semantic Markup · GitHub Pages
+
+- **Live site:** [koidioble.github.io/harmattan →](https://koidioble.github.io/harmattan/)
+- **Source code:** [github.com/koidioble/harmattan →](https://github.com/koidioble/harmattan)
+
+### [Developer Portfolio](https://www.koidioble.com)
+
+A responsive Flutter web portfolio showcasing my technical projects, application-development work, and engineering direction.
+
+**Engineering focus:** Flutter web, reusable UI components, project data modeling, responsive design, animations, and deployment.
+
+[Visit koidioble.com →](https://www.koidioble.com)
 
 ---
 
-## 🤝 Open To
+## Technical Skills
 
-- Senior / Lead remote engineering roles
-- Full-stack product teams (React + Node / Firebase / Supabase)
-- Cross-platform mobile projects (Flutter)
-- Async-first, remote-first engineering cultures
+| Area | Technologies |
+|---|---|
+| **Languages** | Dart, JavaScript, TypeScript, Python, Java, SQL, HTML, CSS |
+| **Mobile & Web** | Flutter, Responsive Web Development, Progressive Web Apps, UI Implementation |
+| **Backend & APIs** | Firebase, Firebase Authentication, Cloud Firestore, Firebase Storage, REST APIs, API Integration, Data Modeling |
+| **Cloud & Delivery** | Firebase Hosting, Google Cloud Platform, Git, GitHub, Docker, Deployment, CI/CD Fundamentals |
+| **Engineering** | Object-Oriented Programming, Debugging, Testing, SDLC, Agile/Scrum, User-Centered Development |
 
 ---
 
-## 📫 Reach Me
+## Education
 
-[![Email](https://img.shields.io/badge/-koidioble@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:koidioble@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koidioyble/)
-[![Website](https://img.shields.io/badge/-sii--kaa.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://www.sii-kaa.com)
+- **B.S. in Computer Engineering Technology** — Indiana State University
+- **M.S. in Engineering Management**
+- Additional study in **Electronics Technology**
 
-<!---
-koidioble/koidioble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+---
+
+## Current Focus
+
+- Building and publishing polished Flutter and full-stack portfolio projects
+- Strengthening application architecture, testing, security, and deployment practices
+- Deepening cloud engineering knowledge through Firebase, Google Cloud, and AWS learning
+- Creating accessible, maintainable software that can evolve beyond a prototype
+- Pursuing software engineering opportunities involving mobile, web, cloud-connected applications, and product development
+
+---
+
+## Let's Connect
+
+I am open to software engineering opportunities, freelance product work, and conversations with teams building useful web or cross-platform mobile applications.
+
+- **Portfolio:** [koidioble.com](https://www.koidioble.com)
+- **LinkedIn:** [linkedin.com/in/koidioyble](https://www.linkedin.com/in/koidioyble/)
+- **Email:** [koidioble@gmail.com](mailto:koidioble@gmail.com)
+
+<!--
+koidioble/koidioble is the special public GitHub profile repository.
+The README.md in this repository appears at the top of the GitHub profile.
+-->
