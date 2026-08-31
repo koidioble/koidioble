@@ -78,7 +78,7 @@ A responsive Flutter web portfolio showcasing my technical projects, application
 ## Education
 
 - **B.S. in Computer Engineering Technology** — Indiana State University
-- **M.S. in Engineering Management**
+- **M.S. in Engineering Management — Admitted** — Marian University
 - Additional study in **Electronics Technology**
 
 ---
